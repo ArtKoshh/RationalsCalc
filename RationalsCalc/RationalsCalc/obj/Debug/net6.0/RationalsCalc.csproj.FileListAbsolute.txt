@@ -1,0 +1,14 @@
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.AssemblyInfo.cs
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\bin\Debug\net6.0\RationalsCalc.exe
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\bin\Debug\net6.0\RationalsCalc.deps.json
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\bin\Debug\net6.0\RationalsCalc.runtimeconfig.json
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\bin\Debug\net6.0\RationalsCalc.dll
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\bin\Debug\net6.0\RationalsCalc.pdb
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.dll
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\refint\RationalsCalc.dll
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.pdb
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\RationalsCalc.genruntimeconfig.cache
+C:\Users\Artur\source\repos\RationalsCalc\RationalsCalc\obj\Debug\net6.0\ref\RationalsCalc.dll
